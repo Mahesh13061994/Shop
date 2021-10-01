@@ -1,0 +1,10 @@
+.login {
+  margin: auto;
+  width: 300px;
+  height: 350px;
+  background-color: darkgrey;
+}
+.log-form {
+  display: block;
+  z-index: 2;
+}
