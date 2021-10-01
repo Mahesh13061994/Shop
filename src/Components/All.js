@@ -15,6 +15,7 @@ const All = () => {
                 </div>
                 <div className="probtn">
                     <Button variant="outlined">Add to Cart</Button>
+                    <Button variant="outlined">Add to Cart</Button>
                 </div>
             </div>
         )}</div>
